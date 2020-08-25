@@ -1,0 +1,13 @@
+C:\Users\cequi\repos\numberguessgame\numberguessgame\obj\Debug\netcoreapp3.1\numberguessgame.csprojAssemblyReference.cache
+C:\Users\cequi\repos\numberguessgame\numberguessgame\obj\Debug\netcoreapp3.1\numberguessgame.AssemblyInfoInputs.cache
+C:\Users\cequi\repos\numberguessgame\numberguessgame\obj\Debug\netcoreapp3.1\numberguessgame.AssemblyInfo.cs
+C:\Users\cequi\repos\numberguessgame\numberguessgame\obj\Debug\netcoreapp3.1\numberguessgame.csproj.CoreCompileInputs.cache
+C:\Users\cequi\repos\numberguessgame\numberguessgame\bin\Debug\netcoreapp3.1\numberguessgame.exe
+C:\Users\cequi\repos\numberguessgame\numberguessgame\bin\Debug\netcoreapp3.1\numberguessgame.deps.json
+C:\Users\cequi\repos\numberguessgame\numberguessgame\bin\Debug\netcoreapp3.1\numberguessgame.runtimeconfig.json
+C:\Users\cequi\repos\numberguessgame\numberguessgame\bin\Debug\netcoreapp3.1\numberguessgame.runtimeconfig.dev.json
+C:\Users\cequi\repos\numberguessgame\numberguessgame\bin\Debug\netcoreapp3.1\numberguessgame.dll
+C:\Users\cequi\repos\numberguessgame\numberguessgame\bin\Debug\netcoreapp3.1\numberguessgame.pdb
+C:\Users\cequi\repos\numberguessgame\numberguessgame\obj\Debug\netcoreapp3.1\numberguessgame.dll
+C:\Users\cequi\repos\numberguessgame\numberguessgame\obj\Debug\netcoreapp3.1\numberguessgame.pdb
+C:\Users\cequi\repos\numberguessgame\numberguessgame\obj\Debug\netcoreapp3.1\numberguessgame.genruntimeconfig.cache
