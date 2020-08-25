@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Reflection.Metadata;
 
 namespace numberguessgame
 {
@@ -6,28 +7,35 @@ namespace numberguessgame
     {
         static void Main(string[] args)
         {
-            var r = new Random();
-            var favNumber = r.Next(1, 1000);
+            var r = new Random(); //allows us to call the next method which will create a random number.
+            var favNumber = r.Next(1, 1000); // had to do above to call Next (the method) which stores a random number in favNumber
 
-            var userInput = int.Parse(Console.ReadLine());
+            Console.WriteLine("Guess what my favorite number is:");
 
-            if (userInput < favNumber)
+            int userInput;
+
+            
+            do
             {
-                Console.WriteLine($"Too Low");
-            }
+                userInput = int.Parse(Console.ReadLine()); //asks for user input (ReadLine) int.Parse converts to integer.
 
-            else if (userInput > favNumber)
-            {
-                Console.WriteLine($"Too High");
-            }
+                if (userInput < favNumber) //evaluates to true or false
+                {
+                    Console.WriteLine($"Too Low"); //true scope (scope is between the curly braces)
+                }
 
-            else //this is a catch all no need for userInput == favNumber
-            {
-             Console.WriteLine($"Nevermind");
-            }
+                else if (userInput > favNumber)
+                {
+                    Console.WriteLine($"Too High");
+                }
 
+                else //this is a catch all no need for a condition to evaluate
+                {
+                    Console.WriteLine($"Nevermind");
+                }
+
+            } while (userInput != favNumber);
            
-        
         }
     }
 }
